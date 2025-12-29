@@ -1,1 +1,8 @@
 NETHERLANDS LIVE IPTV URL : https://is.gd/cLiJcV 
+
+
+MANUAL: HOW TO USE THE LINK TO WATCH LIVE TV (COUNTRY: THE NETHERLANDS
+1) Launch "VLC Media Player"
+2) Click the "Media" button in the top right corner.
+3) CLICK ON THE "OPEN NETWORK STREAM"
+4) PUT THE LINK IN THERE AND ENJOY. 
